@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name": "Md Shahbaz Ali",
+    "occupation": "SDET && ReactJS Developer @Siemens",
+    "description": "I love digging out bugs during Day and learning React at Night",
+    "image": "profilePic.jpg",
+    "bio": "My name is Shahbaz, I'm a SDET and a Full Stack ReactJS Developer. Currently I'm working at Siemens India.",
+    "contactmessage": "Get in touch with me to receive further details or anything else.",
+    "email": "codemdshahbazali@gmail.com",
+    "phone": "+91-9980715588",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Bangalore",
+      "state": "India",
+      "zip": "ABC 123"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mdshahbaz1 ",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/md-shahbaz-ali-03238645/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mdshahbaz1",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/codemdshahbazali",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Top Skills",
+    "education": [
+      {
+        "school": "St Thomas College of Engineering & Technology",
+        "degree": "Bachelors in Information Technology",
+        "graduated": "June 2014",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Siemens",
+        "title": "Software Engineer",
+        "years": "Aug 2018 - Present",
+        "description": "Digging Bugs and Making Websites"
+      },
+      {
+        "company": "Cognizant Technology Solutions",
+        "title": "Software Engineer",
+        "years": "Feb 2014 - Aug 2018",
+        "description": "Digging Bugs and Making Websites"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Node.js",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "Express",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Having worked with Shahbaz over multiple projects, I can definitely say that he has exemplary coding skills in Java as well as JavaScript. He is well versed in automation with TestNG, Protractor and WebDriverIO. His skillset in WebServices and JMeter also deserves a mention. The level of dedication he displays in resolving issues from minor to challenging is truly inspiring. I hope I get chances to work together again in the future.",
+        "user": "Vinaya V Software Engineer @Siemens"
+      }
+    ]
+  }
+}
